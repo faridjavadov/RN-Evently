@@ -15,7 +15,7 @@ Event organizer app which is currently is in its version 1.0 mainly focus on pro
 -LogOut<br/>
 ## Packages Used:<br/>
 
-@react-native-async-storage/async-storage",<br/>
+"@react-native-async-storage/async-storage",<br/>
 "@react-navigation/bottom-tabs",<br/>
 "@react-navigation/native",<br/>
         "@react-navigation/native-stack",<br/>
