@@ -13,8 +13,23 @@ Event organizer app which is currently is in its version 1.0 mainly focus on pro
 -Dark Mode/Light Mode<br/>
 -Language Packages<br/>
 -LogOut<br/>
+## Packages Used:<br/>
 
-
+@react-native-async-storage/async-storage",<br/>
+"@react-navigation/bottom-tabs",<br/>
+"@react-navigation/native"<br/>
+        "@react-navigation/native-stack",<br/>
+        "@reduxjs/toolkit",<br/>
+        "async-storage"<br/>
+        "axios"<br/>
+        "react",<br/>
+        "react-native",<br/>
+        "react-native-safe-area-context":,<br/>
+        "react-native-screens",<br/>
+        "react-native-snap-carousel",<br/>
+        "react-native-vector-icons",<br/>
+        "react-redux",<br/>
+        "redux",<br/>
 ## ScreenShots
 
 ![Evently_Login](https://github.com/faridjavadov/RN-Evently/assets/130349207/7740b8a6-7f3b-4b07-b818-5ce47b18f893)
