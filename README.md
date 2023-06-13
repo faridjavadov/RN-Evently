@@ -1,4 +1,18 @@
 
+##EVENTLY - EVENT ORGANIZER APP
+
+##About This Project
+Event organizer app which is currently is in its version 1.0 mainly focus on providing information for the users about the event venues, and also helps them to save them accordingly their taste<br/>
+##App Has these features:<br/>
+-Providing Dynamic Datas<br/>
+-Login/Register Logic with validations<br/>
+-Saving to Favorites<br/>
+-Linking to Website + Map<br/>
+-Search by name<br/>
+-Filter Features<br/>
+-Dark Mode/Light Mode<br/>
+-Language Packages<br/>
+-LogOut<br/>
 
 
 ##ScreenShots
@@ -17,3 +31,6 @@
 ![Evently_Details_Dark](https://github.com/faridjavadov/RN-Evently/assets/130349207/ed08afa8-3b2f-4648-8b5d-99a9b1df60f2)
 ![Evently_Favorites](https://github.com/faridjavadov/RN-Evently/assets/130349207/7fdcecda-6a7b-47a7-9230-904a1ba08558)
 ![Evently_Favorites_Dark](https://github.com/faridjavadov/RN-Evently/assets/130349207/018b7d52-2eb4-4e08-b8c2-7d662bf9e43a)
+
+
+
