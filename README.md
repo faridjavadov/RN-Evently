@@ -30,6 +30,11 @@ Event organizer app which is currently is in its version 1.0 mainly focus on pro
         "react-native-vector-icons",<br/>
         "react-redux",<br/>
         "redux",<br/>
+    
+ ## Backend Used<br/>
+ Node.js - Express.js,<br/>
+ Mongo DB - Mongoose<br/>
+        
 ## ScreenShots
 
 ![Evently_Login](https://github.com/faridjavadov/RN-Evently/assets/130349207/7740b8a6-7f3b-4b07-b818-5ce47b18f893)
