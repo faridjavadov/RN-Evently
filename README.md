@@ -1,9 +1,9 @@
 
-##EVENTLY - EVENT ORGANIZER APP
+## EVENTLY - EVENT ORGANIZER APP
 
-##About This Project
+## About This Project
 Event organizer app which is currently is in its version 1.0 mainly focus on providing information for the users about the event venues, and also helps them to save them accordingly their taste<br/>
-##App Has these features:<br/>
+## App Has these features:<br/>
 -Providing Dynamic Datas<br/>
 -Login/Register Logic with validations<br/>
 -Saving to Favorites<br/>
