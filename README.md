@@ -15,7 +15,7 @@ Event organizer app which is currently is in its version 1.0 mainly focus on pro
 -LogOut<br/>
 
 
-##ScreenShots
+## ScreenShots
 
 ![Evently_Login](https://github.com/faridjavadov/RN-Evently/assets/130349207/7740b8a6-7f3b-4b07-b818-5ce47b18f893)
 ![Evently_Register](https://github.com/faridjavadov/RN-Evently/assets/130349207/1e70031d-ccdb-4d8c-a049-b51944071153)
